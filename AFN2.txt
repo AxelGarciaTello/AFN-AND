@@ -1,0 +1,6 @@
+Estados de aceptacion:
+q1;
+Tabla de relacion:
+SN 0 1
+q0|q0,q1|q0,q1;
+q1|*|*;
